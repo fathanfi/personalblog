@@ -1,13 +1,15 @@
 backend:
-  name: git-gateway
+  name: github
   branch: main # Branch to update (optional; defaults to master)
+  repo: fathanfi/personalblog
+  base_url: https://miftahulkhoir.org
 
 # Uncomment below to enable editorial workflow draft
 # publish_mode: editorial_workflow
 
 media_folder: content/images/ # Media files will be stored in the repo under images/uploads
 public_folder: ../images/
-site_url: https://arun-gatsby.netlify.app # Replace with your live site URL
+site_url: https://fathanfi.com # Replace with your live site URL
 
 local_backend: true
 
