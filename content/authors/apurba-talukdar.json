@@ -1,0 +1,25 @@
+{
+  "name": " Apurba Talukdar",
+  "email": "apurba@example.com",
+  "description": "Apurba is UI & UX designer by profession, photographer by passion. Solo traveller, blogger, badminton player and movie lover.",
+  "profilePicture": "../images/Apurba.jpg",
+  "location": "Bangalore",
+  "socialLinks": [
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/gbjsolution"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/gbjsolution"
+    },
+    {
+      "platform": "instagram",
+      "url": "#"
+    },
+    {
+      "platform": "youtube",
+      "url": "#"
+    }
+  ]
+}
