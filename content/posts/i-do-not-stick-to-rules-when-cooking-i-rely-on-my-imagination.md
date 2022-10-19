@@ -6,7 +6,7 @@ tags:
   - Food
 author: Biswajit Saha
 featured: false
-published: true
+published: false
 ---
 
 I walked down to the station with them, and then wandered through the streets of the little town, finally returning to the hotel, where I lay upon the sofa and tried to interest myself in a yellow-backed novel. The puny plot of the story was so thin, however, when compared to the deep mystery through which we were groping, and I found my attention wander so continually from the action to the fact, that I at last flung it across the room and gave myself up entirely to a consideration of the events of the day.

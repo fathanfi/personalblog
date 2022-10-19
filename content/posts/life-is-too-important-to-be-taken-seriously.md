@@ -5,8 +5,8 @@ featuredImage: ../images/man-with-sunglass.jpg
 tags:
   - Lifestyle
 author: Surabhi Gupta
-featured: true
-published: true
+featured: false
+published: false
 ---
 
 Between these two, I now felt I had to choose. My two natures had memory in common, but all other faculties were most unequally shared between them. Jekyll (who was composite) now with the most sensitive apprehensions, now with a greedy gusto, projected and shared in the pleasures and adventures of Hyde; but Hyde was indifferent to Jekyll, or but remembered him as the mountain bandit remembers the cavern in which he conceals himself from pursuit. Jekyll had more than a father’s interest; Hyde had more than a son’s indifference.

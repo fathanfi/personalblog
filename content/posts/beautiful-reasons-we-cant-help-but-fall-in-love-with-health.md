@@ -6,8 +6,8 @@ tags:
   - Lifestyle
   - Health
 author: Surabhi Gupta
-featured: true
-published: true
+featured: false
+published: false
 ---
 
 We talked of the melancholy end of a gentleman who had destroyed himself. JOHNSON. 'It was owing to imaginary difficulties in his affairs, which, had he talked with any friend, would soon have vanished.' BOSWELL. 'Do you think, Sir, that all who commit suicide are mad?' JOHNSON. 'Sir, they are often not **universally disordered** in their intellects, but one passion presses so upon them, that they yield to it, and commit suicide, as a passionate man will stab another.' He added, 'I have often thought, that after a man has taken the resolution to kill himself, it is not courage in him to do any thing, however desperate, because he has nothing to fear.'

@@ -8,8 +8,8 @@ module.exports = {
   siteLanguage: "en", // Language Tag on <html> element
 
   // place logo images in static/images folder - Used as site logo
-  logoLight: "/images/arun-light-theme-logo.svg",
-  logoDark: "/images/arun-dark-theme-logo.svg",
+  logoLight: "/images/fathanfi-logo.svg",
+  logoDark: "/images/fathanfi-logo-dark.svg",
 
   // sticky nav style
   stickyNav: true,
@@ -18,7 +18,7 @@ module.exports = {
   cover: "/images/cover.jpg",
 
   // number of featured posts to show on home page
-  featuredPostCount: 2,
+  featuredPostCount: 1,
 
   // number of latest posts to show on home page before load more button
   postPerPage: 8,
@@ -35,7 +35,7 @@ module.exports = {
   backgroundColor: "#ffffff",
 
   //Twitter and facebook data for SEO
-  twitterUsername: "@fathanfi", // Twitter Username
+  twitterUsername: "@fi_fathan", // Twitter Username
   facebook: "fathanfi", // Facebook Site Name
   ogLanguage: "en_US", // Facebook Language
   googleAnalyticsID: "XX-XXXXXXXXX-X",

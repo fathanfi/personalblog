@@ -8,7 +8,7 @@ tags:
   - Inspiration
 author: Ishan Sharma
 featured: false
-published: true
+published: false
 ---
 
 Dr. Johnson, as usual, spoke contemptuously of Colley Cibber. 'It is wonderful that a man, who for forty years had lived with the great and the witty, should have acquired so ill the talents of conversation: and he had but half to furnish; for one half of what he said was oaths.' He, however, allowed considerable merit to some of his comedies, and said there was no reason to believe that the Careless Husband was not written by himself. Davies said, he was the first dramatick writer who introduced genteel ladies upon the stage.

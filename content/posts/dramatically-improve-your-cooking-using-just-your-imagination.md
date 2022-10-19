@@ -4,9 +4,9 @@ date: 2022-04-15 14:50:48+05:30
 featuredImage: ../images/avocado.jpg
 tags:
   - Food
-author: "Harini Banerjee"
+author: Harini Banerjee
 featured: false
-published: true
+published: false
 ---
 
 You cannot too assiduously attend to Madame Duval herself; but I would wish you to mix as little as possible with her associates, who are not likely to be among those whose acquaintance would reflect credit upon you. Remember, my dear Evelina, nothing is so delicate as the reputation of a woman; it is at once the most beautiful and most brittle of all human things.

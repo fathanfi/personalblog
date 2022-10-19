@@ -4,10 +4,10 @@ date: 2021-11-30 02:00:53+05:30
 featuredImage: ../images/feel-home.jpg
 tags:
   - Inspiration
-author: "Harini Banerjee"
+author: Harini Banerjee
 description: ""
 featured: false
-published: true
+published: false
 ---
 
 So we came down this road; when we meet other ways--not always were we sure that they were roads at all, for they be neglect and light snow have fallen--the horses know and they only. I give rein to them, and they go on so patient. By-and-by we find all the things which Jonathan have note in that wonderful diary of him.

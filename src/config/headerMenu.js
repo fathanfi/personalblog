@@ -5,37 +5,29 @@ module.exports = {
       url: "/",
     },
     {
-      name: "Features",
-      url: "/features/",
-    },
-    {
-      name: "Tags",
-      url: "/tags/",
-    },
-    {
-      name: "Authors",
-      url: "/authors/",
-    },
-    {
-      name: "Elements",
-      url: "/elements/",
-    },
-    {
-      name: "archive",
-      url: "#",
-      subMenu: [
+      name: "Code",
+      url: "/tag/code",
+	  subMenu: [
         {
-          name: "Monthly archive",
-          url: "/monthly-archive/",
+          name: "Javascript",
+          url: "/tag/javascript/",
         },
         {
-          name: "Yearly archive",
-          url: "/yearly-archive/",
+          name: "Wordpress",
+          url: "/tag/wordpress/",
         },
       ],
     },
     {
-      name: "Contact",
+      name: "Management",
+      url: "/tag/management/",
+    },
+	{
+	  name: "Engineering Lead Materials (Books, Podcast, Links)",
+	  url: "/posts/engineering-lead-materials/",
+	},
+    {
+      name: "About me",
       url: "/contact/",
     },
   ],

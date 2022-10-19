@@ -14,7 +14,6 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <Seo homePage={true} />
-      <HomeHero />
       <div className="main">
         {featuredPosts.length > 0 && (
           <FeaturedPostLoop

@@ -4,9 +4,9 @@ date: 2022-02-18 14:07:22+05:30
 featuredImage: ../images/girl-standing-by-wall.jpg
 tags:
   - Health
-author: "Harini Banerjee"
-featured: true
-published: true
+author: Harini Banerjee
+featured: false
+published: false
 ---
 
 This recital put the Captain into an ecstasy; he went from the lady to the gentleman, and from the gentleman to the lady, to enjoy alternately the sight of their distress. He really shouted with pleasure; and, shaking Monsieur Du Bois strenuously by the hand, wished him joy of having touched English ground; and then he held a candle to Madame Duval, that he might have a more complete view of her disaster, declaring repeatedly, that he had never been better pleased in his life.

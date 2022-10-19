@@ -11,7 +11,7 @@ description: "I could not tell the others of the day's discovery till we were
   alone; so after dinner--followed by a little music to save appearances even
   amongst ourselves--I took Mina to her room and left her to go to bed. "
 featured: false
-published: true
+published: false
 ---
 
 I could not tell the others of the day's discovery till we were alone; so after dinner--followed by a little music to save appearances even amongst ourselves--I took Mina to her room and left her to go to bed. The dear girl was more affectionate with me than ever, and clung to me as though she would detain me; but there was much to be talked of and I came away. Thank God, the ceasing of telling things has made no difference between us.

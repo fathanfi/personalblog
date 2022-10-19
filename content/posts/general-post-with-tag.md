@@ -5,6 +5,6 @@ featuredImage: ../images/agriculture-fild.jpg
 tags:
   - General
 author: Fathan Fisabilillah
-featured: true
-published: true
+featured: false
+published: false
 ---

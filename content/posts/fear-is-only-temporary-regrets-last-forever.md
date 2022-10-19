@@ -7,7 +7,7 @@ tags:
   - Inspiration
 author: Biswajit Saha
 featured: false
-published: true
+published: false
 ---
 
 I believe we were some minutes in this extraordinary situation; but, as my strength returned, I felt myself both ashamed and awkward, and moved towards the door. Pale and motionless, he suffered me to pass, without changing his posture, or uttering a syllable; and, indeed, He look'd a bloodless image of despair.-POPE. When I reached the door, I turned round; I looked fearfully at the pistols, and, impelled by an emotion I could not repress, I hastily stepped back, with an intention of carrying them away: but their wretched owner, perceiving my design, and recovering from his astonishment, darting suddenly down seized them both himself.

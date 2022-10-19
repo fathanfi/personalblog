@@ -6,7 +6,7 @@ tags:
   - Inspiration
 author: Surabhi Gupta
 featured: false
-published: true
+published: false
 ---
 
 <!--StartFragment-->

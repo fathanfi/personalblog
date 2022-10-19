@@ -5,7 +5,7 @@ featuredImage: ../images/child-loughing.jpg
 tags:
   - General
 author: Fathan Fisabilillah
-featured: true
-published: true
+featured: false
+published: false
 ---
 A﻿nother general post of tag
