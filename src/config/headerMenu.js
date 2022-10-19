@@ -24,7 +24,7 @@ module.exports = {
     },
 	{
 	  name: "Engineering Lead Materials (Books, Podcast, Links)",
-	  url: "/posts/engineering-lead-materials/",
+	  url: "/engineering-lead-materials/",
 	},
     {
       name: "About me",
