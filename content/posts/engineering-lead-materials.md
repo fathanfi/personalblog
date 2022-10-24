@@ -10,8 +10,9 @@ published: true
 ---
 All of the things that help my journey (and perhaps you as well) on being an awesome engineers/engineering lead.
 
-B﻿ooks
+**Books**
 
+* [fathanfi book curated list](https://fathanfi.libib.com/)
 * Manning
 * Leanpub
 * subscriptions
@@ -25,9 +26,9 @@ B﻿ooks
     * wired
     * HBR
 
-P﻿odcast
+**Podcast**
 
-I listen all of these [podcasts on my spotify](https://open.spotify.com/user/21gw5i3mbppbigptbb6js32ja?si=0c32a308cec54adc)
+I listen all of these [podcasts on my spotify](https://open.spotify.com/user/31phjkp3prrtetvm7sxl6wqd4mj4)
 
 * [software engineering daily](https://softwareengineeringdaily.com/) 
 * [the growth show](https://twitter.com/thegrowthshow)
@@ -36,13 +37,12 @@ I listen all of these [podcasts on my spotify](https://open.spotify.com/user/21
 * [Engineering Culture by InfoQ](https://open.spotify.com/show/5YAzpmLjbNhQVVg7HkfIHP?si=28cb8a71e5c242a5)
 * [Simple Programmer Podcast by John Sommez](https://open.spotify.com/show/313ln9aNoosocatGZcn2l2?si=8e81eab015ce427c)
 * [Developer Tea by Jonathan Cutrell](https://open.spotify.com/show/02fM1JHpt9HmHGp482K71b?si=1cfe16b11af846e5)
-* [Heartbeat Podcast by Claire Lew](https://open.spotify.com/show/4gAu4Q9j2D0npdXtwGzeCa?si=578488e180de4c0a)
 * [Soft Skills Engineering by Jamison Dance and Dave Smith](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI?si=e4df3f2485394b1a)
 * [Level Design Lobby by Max Pears](https://open.spotify.com/show/03OTDRAPsAiocSLCTEiXBn?si=vbMOGarYRLW7nAUAbgfTPQ)
 * [Level-up Engineering by Coding Sans](https://open.spotify.com/show/5KZJ8JhKG0KrP0FdWk5vJ7?si=0deZNuuCS_um4xQmodL7Bg)
 * [Kode Nol by deep tech foundation](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY?si=A1o8wPB4So6nHWTfcnvGjA)
 
-N﻿ewsletter
+**Newsletter**
 
 * [changelog.com](https://changelog.com/)
 * [refactoring.club](https://refactoring.club/)
@@ -54,7 +54,7 @@ N﻿ewsletter
 * [techinasia](https://www.techinasia.com/about/get-updates)
 * [technologyreview.com](https://www.technologyreview.com/)
 
-C﻿urated Links
+**Curated Links**
 
 **Handbook**
 
@@ -83,11 +83,7 @@ C﻿urated Links
 * [Tech Teams Management & leadership: A short curated list from Andrea , HoE @ Grab](https://docs.google.com/spreadsheets/d/1VQ1kSS2fFFwBKqWmISqd0-GsrE12tMEPvrOqOzPcc8k/edit#gid=1081432064)
 * [ryanburgess/engineer-manager](https://github.com/ryanburgess/engineer-manager)
 
-**Game Development Related / Curated List**
-
-* [ellisonleao/magictools](https://github.com/ellisonleao/magictools)
-
-**R﻿egulation**
+**Regulation**
 
 * Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2016 Tanggal 1 Desember 2016 Perlindungan Data Pribadi Dalam Sistem Elektronik. [Link](https://jdih.kominfo.go.id/produk_hukum/view/id/553/t/peraturan+menteri+komunikasi+dan+informatika+nomor+20+tahun+2016+tanggal+1+desember+2016)This document will refer to this policy as MoCI (Minister of Communications and Informatics) Regulation 20.
 * NIS Guide to Protecting the Confidentiality of Personally Identifiable Information (PII). [Link](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-122.pdf)
