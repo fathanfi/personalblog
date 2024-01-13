@@ -8,8 +8,8 @@ module.exports = {
   siteLanguage: "en", // Language Tag on <html> element
 
   // place logo images in static/images folder - Used as site logo
-  logoLight: "/images/fathanfi-logo.svg",
-  logoDark: "/images/fathanfi-logo-dark.svg",
+  logoLight: "/images/fathanfi-logo-coffee.svg",
+  logoDark: "/images/fathanfi-logo-coffee-dark.svg",
 
   // sticky nav style
   stickyNav: true,

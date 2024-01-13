@@ -23,7 +23,7 @@ module.exports = {
       url: "/tag/management/",
     },
 	{
-	  name: "Engineering Lead Materials (Books, Podcast, Links)",
+	  name: "Engineering Lead Materials",
 	  url: "/engineering-lead-materials/",
 	},
     {

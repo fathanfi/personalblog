@@ -31,7 +31,7 @@ const HomeHero = () => {
               <div className="cover-img-container">
                 <div className="cover-img-wrap">
                   <StaticImage
-                    src="../assets/images/cover.jpg"
+                    src="../assets/images/cover-new.jpg"
                     alt={`${site.siteMetadata.title} Cover`}
                     width={400}
                     height={400}
@@ -68,7 +68,7 @@ const HomeHero = () => {
             <div className="home-cover-content-wrap">
               <h1 className="heading-large">Hay, I am Fathan</h1>
               <div className="intro-description">
-                An architect, software developer, YouTuber and keynote speaker.
+                An architect, software engineer, wordpress expert.
                 On this site I write about my learning and experience.
               </div>
               <HomeHeroSubscription />
