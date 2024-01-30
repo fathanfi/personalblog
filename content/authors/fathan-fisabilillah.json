@@ -1,11 +1,21 @@
 {
-  "name": "Fathan Fisabilillah",
+  "name": "Fathan Fisabililah",
   "email": "fathanrbe@gmail.com",
-  "profilePicture": "../images/fathanpp-high.jpg",
+  "profilePicture": "../images/fathan-pp-new.jpeg",
   "socialLinks": [
     {
       "platform": "instagram",
-      "url": "https://instagram.com/fathanfi"
+      "url": "https://instagram.com/fathanfis"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/fathanfis"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://facebook.com/fathanfis"
     }
-  ]
+  ],
+  "description": "I've worked in the web development industry for over 12 years, primarily building web publishing platforms and integrations for businesses of all sizes. I spent 8 years in the WordPress industry, contributing to the MonsterInsights plugin (3+ million downloaded) and other theme and plugin creations.\n\nI've led large-scale platform redevelopment projects for organizations such as Grab, Standard Chartered, Wuest & Partner AG, OPSI OECD, and the real estate BSD City Government's site.\n\nI'm a software developer at heart, but my approach is always focused on solving user problems first. I favour stable and proven software stacks and advocate for progressive enhancement and accessibility for all.",
+  "coverImage": "../images/fathan-last-day-turkiye-10.webp"
 }
