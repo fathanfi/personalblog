@@ -3,7 +3,7 @@ module.exports = {
   pathPrefix: "/", // If you deploy your site to yourdomain.tld/blog/ your pathPrefix should be "blog/"
   title: "Fathanfi Personal Blog", // Navigation and Site Title
   titleTemplate: "%s", // To Add extra part in title. the title replace the %s. Example: `%s | Site title`
-  description: "A personal blog for Fathan Fisabilillah",
+  description: "A personal blog for Fathan Fisabilillah. Scheduled a meet up with me on fathanrbe@gmail.com",
   siteUrl: "https://fathanfi.com/", // Domain address of your site. Do not add trailing slash!
   siteLanguage: "en", // Language Tag on <html> element
 
@@ -23,7 +23,7 @@ module.exports = {
   // number of latest posts to show on home page before load more button
   postPerPage: 8,
 
-  disqusShortName: "arun-gatsby", // disqus shortname for disqus comment
+  disqusShortName: "fathanfi", // disqus shortname for disqus comment
 
   // JSONLD / Manifest for SEO
   titleAlt: "Fathan Fisabilillah Personal Blog", // Title for JSONLD
@@ -35,13 +35,13 @@ module.exports = {
   backgroundColor: "#ffffff",
 
   //Twitter and facebook data for SEO
-  twitterUsername: "@fi_fathan", // Twitter Username
-  facebook: "fathanfi", // Facebook Site Name
+  twitterUsername: "@fathanfis", // Twitter Username
+  facebook: "fathanfis", // Facebook Site Name
   ogLanguage: "en_US", // Facebook Language
-  googleAnalyticsID: "XX-XXXXXXXXX-X",
+  googleAnalyticsID: "G-P7372BGM1N",
 
   // mailchimp endpoint.
   // To know how to get it see plugin documentation https://www.gatsbyjs.com/plugins/gatsby-plugin-mailchimp/
   mailchimpEndpoint:
-    "https://gbjsolution.us4.list-manage.com/subscribe/post?u=a63b2fed3ed61b70bf56d1aed&amp;id=7ae9965a25",
+    "https://fathanfi.us21.list-manage.com/subscribe/post?u=5c640ab37ad64bdfb2425047d&amp;id=0693f60592&amp;f_id=00e2f4e6f0",
 }

@@ -12,6 +12,9 @@ const IconsMap = {
   medium: Icons.Medium,
   youtube: Icons.YouTube,
   whatsapp: Icons.Whatsapp,
+  tiktok: Icons.Tiktok,
+  website: Icons.Website,
+  calendly: Icons.Calendly,
 }
 
 export default IconsMap

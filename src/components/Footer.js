@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-top">
           <div className="row">
-            <div className="col-lg-5">
+            <div className="col-lg-4">
               <div className="footer-widget widget-about">
                 <div className="widget-content">
                   <div className="footer-logo-wrap">
@@ -22,7 +22,7 @@ const Footer = () => {
                 </div>
               </div>
             </div>
-            <div className="col-lg-7">
+            <div className="col-lg-8">
               <div className="widget secondary-nav flex">
                 {footerMenu.map((column, index) => (
                   <div className="nav-col" key={index}>
@@ -47,7 +47,7 @@ const Footer = () => {
                 {{> copyright}} */}
           <SocialLinks />
           <div className="copyright">
-            &copy; 2022 <Link to="/">{title}</Link> - All right Reserved
+            &copy; 2024 <Link to="/">{title}</Link> - All right Reserved
           </div>
         </div>
       </div>

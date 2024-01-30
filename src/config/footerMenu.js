@@ -1,37 +1,49 @@
 module.exports = {
   footerMenu: [
     {
-      title: "Quick links",
+      title: "Expertise and services",
       items: [
         {
-          name: "Home",
-          url: "/",
+          name: "Rock Templates",
+          url: "/rock-templates",
         },
         {
-          name: "Elements",
-          url: "/elements/",
+          name: "Enterprise Wordpress",
+          url: "/enterprise-wordpress/",
         },
         {
-          name: "Features",
-          url: "/features/",
+          name: "Artificial Intelligence",
+          url: "/ai/",
         },
         {
-          name: "404 Page",
-          url: "/error-page/",
+          name: "Headless and REST API",
+          url: "/headless/",
         },
+		{
+		  name: "Corporate & Ecommerce",
+		  url: "/corporate-ecommerce/",
+		},
+		{
+			name: "Roadmap.sh",
+			url: "https://roadmap.sh/",
+		},
       ],
     },
     {
-      title: "Archive",
+      title: "Blog & Publishing",
       items: [
         {
-          name: "Tags",
+          name: "Popular",
           url: "/tags/",
         },
         {
-          name: "Authors",
-          url: "/authors/",
+          name: "Programming",
+          url: "/programming/",
         },
+		{
+		  name: "Management",
+		  url: "/management/",
+		},
         {
           name: "Monthly archive",
           url: "/monthly-archive/",
@@ -47,19 +59,27 @@ module.exports = {
       items: [
         {
           name: "Twitter",
-          url: "#",
+          url: "https://twitter.com/fathanfis",
         },
         {
           name: "Facebook",
-          url: "#",
+          url: "https://facebook.com/fathanfis",
         },
+		{
+		  name: "Instagram",
+		  url: "https://instagram.com/fathanfis",
+		},
+		{
+		  name: "Tiktok",
+		  url: "https://tiktok.com/@fathanfis",
+		},
         {
           name: "Linkedin",
-          url: "#",
+          url: "https://linkedin.com/in/fathanfi",
         },
         {
           name: "Github",
-          url: "#",
+          url: "https://github.com/fathanfi",
         },
       ],
     },
