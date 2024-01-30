@@ -1,6 +1,7 @@
 ---
 title: Enterprise Wordpress
 date: 2024-01-30 15:08:37+07:00
+featuredImage: ../images/enterprise-wordpress.jpg
 tags:
   - Wordpress
 author: Fathan Fisabilillah
