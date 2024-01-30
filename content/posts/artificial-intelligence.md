@@ -6,7 +6,7 @@ tags:
   - Wordpress
 author: Fathan Fisabilillah
 featured: false
-published: false
+published: true
 ---
 ## AI services for WordPress
 
