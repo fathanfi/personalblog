@@ -13,7 +13,7 @@ module.exports = {
         },
         {
           name: "Artificial Intelligence",
-          url: "/ai/",
+          url: "/artificial-intelligence/",
         },
         {
           name: "Headless and REST API",
