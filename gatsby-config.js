@@ -162,12 +162,12 @@ module.exports = {
       },
     },
 
-    // google analytics
+    // google analytics gtag
     {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: websiteConfig.googleAnalyticsID,
-      },
-    },
+		resolve: "gatsby-plugin-google-gtag",
+		options: {
+		  trackingId: websiteConfig.googleAnalyticsID,
+		},
+	  },
   ],
 }
